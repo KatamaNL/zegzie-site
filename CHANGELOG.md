@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-28
+- Privacy policy: saved voices (ZegZie 1.3.0), a voice embedding as biometric data stored only on the device and excluded from backups, in line with `docs/app-store/privacy-nl.md` in the app repo (issue KatamaNL/spraak-naar-tekst-opa 57) (@herriaan)
+
 ## 2026-11-24
 - Privacy policy: speaker recognition (ZegZie 1.2.0), the speaker model download, and iPhone/iOS wording in line with `docs/app-store/privacy-nl.md` in the app repo (issue KatamaNL/spraak-naar-tekst-opa 55) (@herriaan)
 
